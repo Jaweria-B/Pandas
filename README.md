@@ -32,7 +32,7 @@ cd your-repository
 
 2. Install Jupyter:
 
-If you haven't installed Jupyter Notebook, you can install it using:
+If you have not installed Jupyter Notebook, you can install it using:
 
 pip install jupyter
 
